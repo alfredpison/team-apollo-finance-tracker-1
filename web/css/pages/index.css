@@ -21,6 +21,7 @@ body {
 }
 
 .page-header__title {
+	    padding-top: 15px;
 
 }
 
@@ -178,7 +179,7 @@ li{
 ul{
 	display: flex;
 	justify-content: space-around;
-	padding-top: 5px;
+    	padding-top: 15px;
 }
 .link {
 	color: white;
