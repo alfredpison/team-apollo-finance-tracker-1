@@ -155,3 +155,41 @@ body {
 .form__link.is-signup-toggle {
 	margin-top: 10px;
 }
+
+
+
+
+
+
+.general {
+		display: flex;
+		justify-content: space-between;
+		width: 100%;
+}
+li{
+	list-style-type: none;
+	color: white;
+	text-align: center;
+	display: inline;
+	padding-right: 13px;
+	padding-left: 20px;
+
+}
+ul{
+	display: flex;
+	justify-content: space-around;
+	padding-top: 5px;
+}
+.link {
+	color: white;
+	text-decoration: none;
+}
+.link:hover {
+	text-decoration: none;
+	font-style: normal;
+	font-weight: normal;
+	text-transform: normal;
+	letter-spacing: normal;
+	line-height: 1.3em;
+	color: rgb(35, 71, 139);
+}
